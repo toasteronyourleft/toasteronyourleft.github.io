@@ -151,6 +151,7 @@ nav button:active:not(#current) {
     padding: 20px;
 }
 #home button {
+    font-family: Google Sans M;
     outline: 0;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.07), 0 6px 20px 0 rgba(0,0,0,0.07);
 	background-color: rgba(255,255,255,0.2);
@@ -293,6 +294,9 @@ nav button:active:not(#current) {
 }
 #about article img {
     padding: 20px;
+}
+#about #info {
+    font-family: Google Sans;
 }
 
 
