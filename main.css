@@ -458,3 +458,6 @@ mark {
 i, b, u {
     font-family: Google Sans;
 }
+video {
+    margin: 10px;
+}
